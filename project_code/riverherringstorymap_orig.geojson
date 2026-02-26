@@ -1,0 +1,131 @@
+{"type": "FeatureCollection", "features": [{
+    "type":"Feature",
+    "properties":{
+    "targets":"short list of targets",
+    "type":"project type",
+    "project_name":"Start Tour",
+    "project_lead":"name of project leader",
+    "partners":"short list of partners",
+    "funding_source":"short list of funding sources",
+    "dissemination":"brief summary of dissemination practices",
+    "video":null,"period":"2018-02-01 to 2019-01-31",
+    "photo":"48367325277",
+    "photo_size_version":"1d89e96b29",
+    "html":"",
+    "position":[41.90736,-70.56313],"zoom":16},
+    "geometry":{"type":"Point","coordinates":[-70.570232,41.908615]}
+    },{
+    "type":"Feature",
+    "properties":{
+    "targets":"short list of targets",
+    "type":"project type",
+    "project_name":"Saltwater/Freshwater Confluence",
+    "project_lead":"name of project leader",
+    "partners":"short list of partners",
+    "funding_source":"short list of funding sources",
+    "dissemination":"brief summary of dissemination practices",
+    "video":null,"period":"2018-02-01 to 2019-01-31",
+    "photo":"48367325277",
+    "photo_size_version":"1d89e96b29",
+    "html":"<p>This is where it all begins!</p><p>This video shows freshwater stream Beaver Dam Brook confluence with Cape Cod Bay, providing ecosystem connectivity between marine and freshwater habitats, and passage for spawning river herring populations.</p><div class=\"iframe-video-wrapper\" style=\"margin-bottom:20px;\"><iframe class=\"iframe-video\" width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/fhspcDmFiqQ\" allow=\"accelerometer; encrypted-media; gyroscope;\" allowfullscreen=\"\" frameborder=\"0\"></iframe></div>",
+    "position":[41.93408,-70.554993],"zoom":16},
+    "geometry":{"type":"Point","coordinates":[-70.554993,41.92994]}
+    },{
+    "type":"Feature",
+    "properties":{
+    "targets":"short list of targets",
+    "type":"project type",
+    "project_name":"Building",
+    "project_lead":"name of project leader",
+    "partners":"short list of partners",
+    "funding_source":"short list of funding sources",
+    "dissemination":"brief summary of dissemination practices",
+    "video":null,"period":"2018-02-01 to 2019-01-31",
+    "photo":"48367325277",
+    "photo_size_version":"1d89e96b29",
+    "html":"<p>Here, we see citizen science groups learning to construct and install PIT antennas. PIT Tag antennas and passive transmitters are like the EZ-Pass on the highway, a fish passes through the antenna and an unique code, date, time, and location is recorded.</p><div class=\"popup_img_div\"><img src=\"images/storymap/FP/Picture3.jpg\" style=\"width:100%;\"><img src=\"images/storymap/FP/Picture4.jpg\" style=\"width:100%;\"></div>",
+    "position":[41.91156, -70.57038],"zoom":16},
+    "geometry":{"type":"Point","coordinates":[-70.570232,41.908615]}
+    },{
+    "type":"Feature",
+    "properties":{
+    "targets":"short list of targets",
+    "type":"project type",
+    "project_name":"Installation",
+    "project_lead":"name of project leader",
+    "partners":"short list of partners",
+    "funding_source":"short list of funding sources",
+    "dissemination":"brief summary of dissemination practices",
+    "video":null,"period":"2018-02-01 to 2019-01-31",
+    "photo":"48367325227",
+    "photo_size_version":"f1dbb88689",
+    "html":"<p>The image below shows us installing and programming PIT antennas. The system uses either battery, solar, or hard-wired power sources depending on availability and access.</p><div class=\"popup_img_div\"><img src=\"images/storymap/FP/Picture5.jpg\" style=\"width:100%;\"><img src=\"images/storymap/FP/Picture6.jpg\" style=\"width:100%;\"></div>",
+    "position":[41.90815, -70.56769],"zoom":16},
+    "geometry":{"type":"Point","coordinates":[-70.567688,41.905215]}
+    },{
+    "type":"Feature",
+    "properties":{
+    "targets":"short list of targets",
+    "type":"project type",
+    "project_name":"Fresh Pond",
+    "project_lead":"name of project leader",
+    "partners":"short list of partners",
+    "funding_source":"short list of funding sources",
+    "dissemination":"brief summary of dissemination practices",
+    "video":"7xhMJiCKab8",
+    "period":"2018-02-01 to 2019-01-31",
+    "photo":null,
+    "photo_size_version":null,
+    "html":"<p>Shown below is the Fresh Pond river herring spawning habitat. River herring are little packets of energy moving transporting resources back and forth, connecting freshwater and marine ecosystems through annual river herring spawning migrations.</p><p>SCROLL for more images and videos!</p></p><div class=\"popup_img_div\"><img src=\"images/storymap/FP/Picture11.jpg\" style=\"width:100%;\"><img src=\"images/storymap/FP/Picture12.jpg\" style=\"height:300px;\"><img src=\"images/storymap/FP/Picture13.jpg\" style=\"width:100%;\"></div><p>The images below show us collecting freshwater predator fish for river herring food web modeling.</p><div class=\"popup_img_div\"><img src=\"images/storymap/FP/Picture14.jpg\" style=\"width:100%;\"><img src=\"images/storymap/FP/Picture15.jpg\" style=\"width:100%;\"></div><p>Here, we are seen performing sonar mapping of lake bathymetry for river herring habitat and resource assessments.</p><div class=\"popup_img_div\"><img src=\"images/storymap/FP/Picture16.jpg\" style=\"width:100%;\"></div><p>We leave you with a 5-min video we made in 2017, which summarizes river herring projects at Fresh Pond, Herring Pond, and Great Pond. Enjoy!</p><div class=\"iframe-video-wrapper\" style=\"margin-bottom:20px;\"><iframe class=\"iframe-video\" width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/7xhMJiCKab8\" allow=\"accelerometer; encrypted-media; gyroscope;\" allowfullscreen=\"\" frameborder=\"0\"></iframe></div>",
+    "position":[41.90697,-70.55592],"zoom":16},
+    "geometry":{"type":"MultiPolygon","coordinates":[[[[-70.556431,41.907515],[-70.557718,41.906781],[-70.558233,41.905854],[-70.557976,41.905088],[-70.557761,41.904641],[-70.559177,41.904162],[-70.559392,41.903619],[-70.559263,41.903076],[-70.558448,41.902437],[-70.557718,41.902213],[-70.556817,41.901862],[-70.55716,41.901351],[-70.556602,41.900999],[-70.555444,41.900808],[-70.55407,41.901127],[-70.553083,41.90199],[-70.552611,41.903044],[-70.55347,41.903938],[-70.554628,41.905407],[-70.554457,41.90579],[-70.554414,41.906653],[-70.553942,41.907164],[-70.554972,41.907643],[-70.556431,41.907515]]]]}
+    },{
+    "type":"Feature",
+    "properties":{
+    "targets":"short list of targets",
+    "type":"project type",
+    "project_name":"Great Pond",
+    "project_lead":"name of project leader",
+    "partners":"short list of partners",
+    "funding_source":"short list of funding sources",
+    "dissemination":"brief summary of dissemination practices",
+    "video":null,"period":"2018-02-01 to 2019-01-31",
+    "photo":null,
+    "photo_size_version":null,
+    "html":"",
+    "position":[41.83644,-69.98958],"zoom":16},
+    "geometry":{"type":"MultiPolygon","coordinates":[[[[-69.990635,41.838107],[-69.991407,41.837883],[-69.991364,41.837052],[-69.991622,41.836476],[-69.991279,41.835549],[-69.992051,41.834813],[-69.993381,41.834302],[-69.994926,41.833854],[-69.995399,41.832671],[-69.994841,41.83152],[-69.994326,41.830529],[-69.993424,41.830657],[-69.992695,41.831328],[-69.993124,41.832128],[-69.992266,41.832255],[-69.991193,41.831872],[-69.989991,41.831104],[-69.988575,41.830433],[-69.98733,41.830593],[-69.985743,41.83104],[-69.984412,41.831872],[-69.98394,41.832799],[-69.984155,41.83379],[-69.984713,41.834174],[-69.985356,41.833982],[-69.98673,41.83475],[-69.987674,41.835837],[-69.988704,41.836796],[-69.989648,41.83718],[-69.989734,41.838075],[-69.990635,41.838107]]]]}
+    },{
+    "type":"Feature",
+    "properties":{
+    "targets":"short list of targets",
+    "type":"project type",
+    "project_name":"Herring Pond",
+    "project_lead":"name of project leader",
+    "partners":"short list of partners",
+    "funding_source":"short list of funding sources",
+    "dissemination":"brief summary of dissemination practices",
+    "video":null,"period":"2018-02-01 to 2019-01-31",
+    "photo":null,
+    "photo_size_version":null,
+    "html":"",
+    "position":[41.82820, -69.98591],"zoom":16},
+    "geometry":{"type":"MultiPolygon","coordinates":[[[[-69.985785,41.826851],[-69.987459,41.826787],[-69.988661,41.82618],[-69.988918,41.824996],[-69.988704,41.824101],[-69.988232,41.823461],[-69.987459,41.822982],[-69.986687,41.823014],[-69.986043,41.823493],[-69.985142,41.823845],[-69.984412,41.824229],[-69.983726,41.824773],[-69.982996,41.825348],[-69.982395,41.825796],[-69.982524,41.826531],[-69.983425,41.826819],[-69.984713,41.827075],[-69.985785,41.826851]]]]}
+    },{
+    "type":"Feature",
+    "properties":{
+    "targets":"short list of targets",
+    "type":"project type",
+    "project_name":"Upper Mystic Lake",
+    "project_lead":"name of project leader",
+    "partners":"short list of partners",
+    "funding_source":"short list of funding sources",
+    "dissemination":"brief summary of dissemination practices",
+    "video":null,"period":"2018-02-01 to 2019-01-31",
+    "photo":null,
+    "photo_size_version":null,
+    "html":"<h5>Mystic River System Acoustic Tracking and Fish Passage Improvements</h4><p>Monitoring and assessing spawning river herring populations takes place every spring, involving volunteer monitoring groups and research partnerships involving academic, state, federal, and local non-profit programs.  Outreach signage at the Mystic River Dam and Fish Ladder provides historic background on river herring runs and fish passage improvements at the site.</p><div class=\"popup_img_div\"><img src=\"images/storymap/UML/UML_Dam_picture_panel.jpg\" style=\"width:100%;\"><img src=\"images/storymap/UML/UML_Dam_sign.jpg\" style=\"width:100%;\"></div><p>These are the types of an acoustic transmitters and tags used to track river herring movements throughout the Mystic River system.  The transmitter sends out a ping at set intervals, transmitting a unique code, date, time, and location.</p><div class=\"popup_img_div\"><img src=\"images/storymap/UML/transmitter.jpg\" style=\"width:75%;\"><img src=\"images/storymap/UML/PIT_tag.jpg\" style=\"width:50%;\"></div><p>Researchers from MIT Sea Grant and the Massachusetts Division of Marine Fisheries, along with interns and volunteers tagging river herring with acoustic transmitters at the Mystic River Dam.  River herring are collected from the fish ladder at the Mystic River Dam, tagged, and released upstream into Upper Mystic Lake.</p><div class=\"popup_img_div\"><img src=\"images/storymap/UML/researchers1.jpg\" style=\"width:47%;\"> <img src=\"images/storymap/UML/researchers2.jpg\" style=\"width:47%;\"></div><p>Meaghan Rafferty of MIT Sea Grant and Matt Devine of UMass Amherst deploying acoustic receivers in the Mystic River System.</p><div class=\"popup_img_div\"><img src=\"images/storymap/UML/Meaghan_Matt.jpg\" style=\"height:300px;\"></div>",
+    "position":[42.44000,-71.14896],"zoom":15},
+    "geometry":{"type":"MultiPolygon","coordinates":[[[[-71.146774,42.445121],[-71.147161,42.443918],[-71.148319,42.442651],[-71.149092,42.441891],[-71.150336,42.441764],[-71.151924,42.441163],[-71.15201,42.440498],[-71.151795,42.439611],[-71.150851,42.439262],[-71.150165,42.439294],[-71.150508,42.438439],[-71.152096,42.437489],[-71.152868,42.436855],[-71.153641,42.435652],[-71.154027,42.434163],[-71.153855,42.432896],[-71.152911,42.431883],[-71.151195,42.431217],[-71.150208,42.430711],[-71.148705,42.430774],[-71.147375,42.431471],[-71.146517,42.432421],[-71.146774,42.433213],[-71.146646,42.434068],[-71.146173,42.435335],[-71.146646,42.436285],[-71.147418,42.436887],[-71.146903,42.437299],[-71.146216,42.437964],[-71.146002,42.438787],[-71.146045,42.439706],[-71.146646,42.440118],[-71.147847,42.440213],[-71.148534,42.440054],[-71.149435,42.439643],[-71.149693,42.440371],[-71.14892,42.440783],[-71.148577,42.441543],[-71.147761,42.442018],[-71.14656,42.441859],[-71.145272,42.442049],[-71.143684,42.442176],[-71.143084,42.442873],[-71.143255,42.443791],[-71.144114,42.444805],[-71.144671,42.44547],[-71.145658,42.445565],[-71.146774,42.445121]]]]}
+    }    
+]}

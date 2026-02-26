@@ -1,0 +1,11 @@
+{"type":"FeatureCollection","features":[
+
+
+{"type":"Feature","properties":{"title":"1. (video)","desc":null},"geometry":{"type":"Point","coordinates":[-70.554993,41.92994]}},
+{"type":"Feature","properties":{"title":"4. river herring swimming upstream","desc":"video"},"geometry":{"type":"Point","coordinates":[-70.568855,41.910438]}},
+{"type":"Feature","properties":{"title":"7. fish passage restoration","desc":null},"geometry":{"type":"Point","coordinates":[-70.561153,41.905445]}},
+{"type":"Feature","properties":{"title":"8. river herring swimming upstream","desc":null},"geometry":{"type":"Point","coordinates":[-70.560674,41.90496]}},
+{"type":"Feature","properties":{"title":"9.Channel outflow from Fresh Pond","desc":null},"geometry":{"type":"Point","coordinates":[-70.559285,41.904189]}}
+
+
+]}

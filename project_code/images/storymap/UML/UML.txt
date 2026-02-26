@@ -1,0 +1,41 @@
+<h5>Mystic River System Acoustic Tracking and Fish Passage Improvements</h4><ol>
+
+<li>
+
+Monitoring and assessing spawning river herring populations takes place every spring, involving volunteer monitoring groups and research partnerships involving academic, state, federal, and local non-profit programs.  Outreach signage at the Mystic River Dam and Fish Ladder provides historic background on river herring runs and fish passage improvements at the site.
+
+<div class=\"popup_img_div\">
+<img src=\"images/storymap/UML/UML_Dam_picture_panel.jpg\" style=\"width:100%;\">
+<img src=\"images/storymap/UML/UML_Dam_sign.jpg\" style=\"width:100%;\">
+</div>
+
+</li>
+
+<li>
+
+These are the types of an acoustic transmitters and tags used to track river herring movements throughout the Mystic River system.  The transmitter sends out a ping at set intervals, transmitting a unique code, date, time, and location.
+
+<div class=\"popup_img_div\">
+<img src=\"images/storymap/UML/transmitter.jpg\" style=\"width:75%;\">
+<img src=\"images/storymap/UML/PIT_tag.jpg\" style=\"width:50%;\">
+</div>
+
+</li>
+
+<li>
+
+Researchers from MIT Sea Grant and the Massachusetts Division of Marine Fisheries, along with interns and volunteers tagging river herring with acoustic transmitters at the Mystic River Dam.  River herring are collected from the fish ladder at the Mystic River Dam, tagged, and released upstream into Upper Mystic Lake.
+
+<div class=\"popup_img_div\"><img src=\"images/storymap/UML/researchers1.jpg\" style=\"width:47%;\"> <img src=\"images/storymap/UML/researchers2.jpg\" style=\"width:47%;\"></div>
+
+</li>
+
+<li>
+
+Meaghan Rafferty of MIT Sea Grant and Matt Devine of UMass Amherst deploying acoustic receivers in the Mystic River System.
+
+<div class=\"popup_img_div\"><img src=\"images/storymap/UML/Meaghan_Matt.jpg\" style=\"height:300px;\"></div>
+
+</li>
+
+</ol>",

@@ -1,0 +1,76 @@
+#3
+
+<li>
+
+PIT tagging fish as they enter the restoration site in Beaver Dam Brook
+
+<div class=\"popup_img_div\">
+<img src=\"images/storymap/FP/Picture2.jpg\" style=\"width:100%;\">
+</div>
+
+</li>
+
+
+
+#7
+<li>
+
+Fish passage restoration often involves improving culvert structures. This culvert extends under the roadway enabling fish to continue migrating upstream to their spawning habitat in Fresh Pond. 
+
+<div class=\"popup_img_div\">
+<img src=\"images/storymap/FP/Picture7.jpg\" style=\"width:100%;\">
+<img src=\"images/storymap/FP/Picture8.jpg\" style=\"width:100%;\">
+</div>
+
+</li>
+
+
+#8
+
+<li>
+
+River herring swimming upstream in the last section of channel that connect to the Fresh Pond spawning habitat. 
+
+<div class=\"popup_img_div\">
+<img src=\"images/storymap/FP/Picture9.jpg\" style=\"width:100%;\">
+</div>
+
+</li>
+
+
+#9
+
+<li>
+
+Channel outflow from Fresh Pond 
+
+<div class=\"popup_img_div\">
+<img src=\"images/storymap/FP/Picture10.jpg\" style=\"width:100%;\">
+</div>
+
+</li>
+
+
+
+
+
+
+
+
+
+
+
+<div class=\"popup_img_div\">
+<img src=\"images/storymap/UML/UML_Dam_picture_panel.jpg\" style=\"width:100%;\">
+<img src=\"images/storymap/UML/UML_Dam_sign.jpg\" style=\"width:100%;\">
+</div>
+
+
+<div class=\"popup_img_div\">
+<img src=\"images/storymap/UML/transmitter.jpg\" style=\"width:75%;\">
+<img src=\"images/storymap/UML/PIT_tag.jpg\" style=\"width:50%;\">
+</div>
+
+<div class=\"popup_img_div\"><img src=\"images/storymap/UML/researchers1.jpg\" style=\"width:47%;\"> <img src=\"images/storymap/UML/researchers2.jpg\" style=\"width:47%;\"></div>
+
+<div class=\"popup_img_div\"><img src=\"images/storymap/UML/Meaghan_Matt.jpg\" style=\"height:300px;\"></div>
